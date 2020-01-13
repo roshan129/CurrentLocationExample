@@ -73,8 +73,8 @@ public class MainActivity extends AppCompatActivity {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if(requestCode == 1){
             Toast.makeText(this, "clciked", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "clciked2", Toast.LENGTH_SHORT).show();
 
-            
         }
     }
 

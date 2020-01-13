@@ -75,4 +75,12 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "clciked", Toast.LENGTH_SHORT).show();
         }
     }
+
+
+    private void tempFucntion(){
+        //temporary function
+
+    }
+
+
 }
